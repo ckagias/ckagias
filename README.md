@@ -5,9 +5,10 @@
 - 📚 Studying CS at [University of East London](https://www.uel.ac.uk/)
 
 <h3 align="left">Websites:</h3>
-<p align="left">
+
   - <a href= "https://www.mcpatras.gr">mcpatras.gr</a>
-</p>
+  - <a href= "https://www.ckagias.gr">ckagias.gr</a>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
